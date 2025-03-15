@@ -66,6 +66,8 @@ Maven
 
 ChromeDriver (for Selenium WebDriver)
 
+## Project Explanation
+Video Link : https://drive.google.com/file/d/1V_vwidAIKBwrAi2a2DAAAwrrHPQUKFZD/view?usp=drive_link
 
 # Test Scenarios
 
